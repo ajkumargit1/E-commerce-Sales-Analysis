@@ -18,7 +18,7 @@ This project analyzes an online retail dataset to uncover sales trends, top prod
 - **Visualization**
 - **Business insight generation**
 
-![Analysis Workflow](ecom-images/workflow.png)
+![Analysis Workflow](workflow.png)
 
 ---
 
